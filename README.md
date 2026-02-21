@@ -31,12 +31,6 @@ The dashboard transforms raw sales data into meaningful business insights, enabl
 - Data Cleaning & Transformation  
 - Interactive Filters & Slicers  
 
----
-
-## 🚀 How to Use
-1. Download the Excel file from the `dashboard` folder.
-2. Open it using Microsoft Excel.
-3. Use the interactive filters and slicers to explore insights.
 
 ---
 
