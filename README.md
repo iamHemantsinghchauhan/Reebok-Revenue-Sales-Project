@@ -33,21 +33,6 @@ The dashboard transforms raw sales data into meaningful business insights, enabl
 
 ---
 
-
----
-
-## 📁 Repository Structure
-```
-Reebok-Sales-Dashboard
-│── dashboard/
-│   └── Reebok Sales Dashboard Project.xlsx
-│── screenshots/
-│   └── dashboard-overview.png
-│── README.md
-```
-
----
-
 ## 🚀 How to Use
 1. Download the Excel file from the `dashboard` folder.
 2. Open it using Microsoft Excel.
