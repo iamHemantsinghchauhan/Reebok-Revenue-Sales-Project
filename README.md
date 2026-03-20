@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 This project presents an interactive Excel dashboard designed to analyze Reebok’s sales performance across multiple regions, product categories, and time periods.
-
 The dashboard transforms raw sales data into meaningful business insights, enabling data-driven strategic decision-making.
 
 ---
